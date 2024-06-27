@@ -5,7 +5,7 @@ In the crucial competition, banks are trying to absorb as many deposits as they 
 
 Original data source UCI bank marketing: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
-The bank-full.csv is the original data from UCI. To learn how to convert original string data into numerical/binary data, please check my other Python Data Mining project. These two projects are using the same dataset but focusing on different areas (the other one is data mining classification analysis.) The 'ADB customers.csv' is a processed dataset with numerical/binary data.
+The bank-full.csv is the original data from UCI. To learn how to convert original string data into numerical/binary data, please check my other Python Data Mining project https://github.com/weig521/Data-Mining-Classification-tele-banking-campain-analysis. These two projects are using the same dataset but focusing on different areas (the other one is data mining classification analysis.) The 'ADB customers.csv' is a processed dataset with numerical/binary data.
 
 jobs.xlsx is an excel document I created with all the 12 different jobs to be imported into SQL table.
 
